@@ -1,0 +1,15 @@
+{
+  "name": "Epoch 8-2",
+  "series": "Epoch 8",
+  "attributes": [
+    {
+      "trait_type": "epoch",
+      "value": "8"
+    },
+    {
+      "trait_type": "tag",
+      "value": "NFTs.REN"
+    }
+  ],
+  "image": "ipfs://Qmf1pRGHUX1gtVX6t7b1KsBtSHargyMwATvDH48B63wABa/8/2/media.jpg"
+}

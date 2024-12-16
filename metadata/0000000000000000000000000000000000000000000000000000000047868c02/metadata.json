@@ -1,0 +1,16 @@
+{
+  "name": "Epoch 12-2",
+  "series": "Epoch 12",
+  "attributes": [
+    {
+      "trait_type": "epoch",
+      "value": "12"
+    },
+    {
+      "trait_type": "tag",
+      "value": "NFTs.REN"
+    }
+  ],
+  "image": "ipfs://Qmf1pRGHUX1gtVX6t7b1KsBtSHargyMwATvDH48B63wABa/12/2/media.jpg",
+  "artist": "yorshCP"
+}

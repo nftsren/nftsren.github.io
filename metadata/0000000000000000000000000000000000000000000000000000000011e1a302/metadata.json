@@ -1,0 +1,15 @@
+{
+  "name": "Epoch 3-2",
+  "series": "Epoch 3",
+  "attributes": [
+    {
+      "trait_type": "epoch",
+      "value": "3"
+    },
+    {
+      "trait_type": "tag",
+      "value": "NFTs.REN"
+    }
+  ],
+  "image": "ipfs://Qmf1pRGHUX1gtVX6t7b1KsBtSHargyMwATvDH48B63wABa/3/2/media.jpg"
+}

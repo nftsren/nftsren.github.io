@@ -1,0 +1,15 @@
+{
+  "name": "Epoch 18-2",
+  "series": "Epoch 18",
+  "attributes": [
+    {
+      "trait_type": "epoch",
+      "value": "18"
+    },
+    {
+      "trait_type": "tag",
+      "value": "NFTs.REN"
+    }
+  ],
+  "image": "ipfs://Qmf1pRGHUX1gtVX6t7b1KsBtSHargyMwATvDH48B63wABa/18/2/media.mp4"
+}

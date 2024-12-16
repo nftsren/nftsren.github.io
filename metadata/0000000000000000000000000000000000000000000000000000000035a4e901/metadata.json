@@ -1,0 +1,15 @@
+{
+  "name": "Epoch 9-1",
+  "series": "Epoch 9",
+  "attributes": [
+    {
+      "trait_type": "epoch",
+      "value": "9"
+    },
+    {
+      "trait_type": "tag",
+      "value": "NFTs.REN"
+    }
+  ],
+  "image": "ipfs://Qmf1pRGHUX1gtVX6t7b1KsBtSHargyMwATvDH48B63wABa/9/1/media.mp4"
+}
